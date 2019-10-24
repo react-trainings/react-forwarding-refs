@@ -1,0 +1,3 @@
+.input-box:focus {
+    border: 3px solid yellow;
+}
